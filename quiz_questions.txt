@@ -1,0 +1,69 @@
+Question: Which keyword is used to define a function in Python?
+A. function
+B. define
+C. def
+D. func
+Answer: C
+
+Question: Which data structure is immutable and ordered?
+A. List
+B. Dictionary
+C. Set
+D. Tuple
+Answer: D
+
+Question: What does the 'finally' block do in exception handling?
+A. Runs only if no exceptions occur
+B. Runs only when an ecception occurs
+C. Always run regardless of exceptions
+D. Handles specific exception types
+Answer: C
+
+Question: Which collection type stores unique elements?
+A. List
+B. Dictionary
+C. Set
+D. Tuple
+Answer: C
+
+Question: What is the correct way to open a file for reading?
+A. open('file.txt', 'w')
+B. open('file.txt', 'r')
+C. open('file.txt', 'read')
+D. open('file.txt', 'a')
+Answer: B
+
+Question: Which statement is used to skip to the next iteration in a loop?
+A. break
+B. continue
+C. pass
+D. skip
+Answer: B
+
+Question: What is the scope of a variable defined inside a function?
+A. Global scope
+B. Local scope
+C. Module scope
+D. External scope
+Answer: B
+
+Question: Which data type is best suited for key-value pairs?
+A. List
+B. Tuple
+C. Dictionary
+D. Set
+Answer: C
+
+Question: What does the 'r' prefix before a string literal indicate?
+A. Regular expression
+B. Raw string
+C. Read-only string
+D. Reversed string
+Answer: B
+
+Question: Which of these is NOT a valid way to handle multiple exceptions?
+A. Using multiple except blocks
+B. Putting exception types in a tuple
+C. Using a list of exception types
+D. Catching the base Exception class
+Answer: C
