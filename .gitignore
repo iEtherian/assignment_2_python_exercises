@@ -2,11 +2,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# VS Code settings
 .vscode/
-
-# Virtual environments (if you ever create them)
 venv/
 env/
 *.env
